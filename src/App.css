@@ -86,3 +86,41 @@ h2,h6,h4,h5,ul {
   font-style: normal;
   color: grey;
 }
+
+.completedtasks{
+  color: rgb(78, 3, 3);
+}
+/* TodoApp.css */
+
+.completed-tasks {
+  background-color: #f0f0f0; 
+  border: 1px solid #ccc; 
+  padding: 10px; 
+  margin-top: 20px;
+  border-radius: 5px;
+  
+}
+
+.completed-tasks h4 {
+  color: #333; 
+  margin-bottom: 10px; 
+}
+.completed-tasks h3 {
+  color: #333; 
+  margin-bottom: 10px; 
+}
+
+.completed-tasks ul {
+  list-style: none; 
+  padding: 0;
+  color: #333;
+
+}
+
+.completed-tasks li {
+  background-color: #b1afaf;
+  padding: 5px 10px; 
+  margin: 5px 0;
+  border-radius: 3px;
+  color: #333;
+}
